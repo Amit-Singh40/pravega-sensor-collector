@@ -30,4 +30,8 @@ public class PravegaSensorCollectorApp {
             System.exit(2);
         }
     }
+
+    public void test() {
+        System.out.println("test");
+    }
 }
